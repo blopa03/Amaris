@@ -1,0 +1,5 @@
+c:\Users\CASA\documents\visual studio 2015\Projects\Amaris\Amaris.Entities\bin\Debug\Amaris.Entities.dll
+c:\Users\CASA\documents\visual studio 2015\Projects\Amaris\Amaris.Entities\bin\Debug\Amaris.Entities.pdb
+c:\Users\CASA\documents\visual studio 2015\Projects\Amaris\Amaris.Entities\obj\Debug\Amaris.Entities.dll
+c:\Users\CASA\documents\visual studio 2015\Projects\Amaris\Amaris.Entities\obj\Debug\Amaris.Entities.pdb
+c:\Users\CASA\documents\visual studio 2015\Projects\Amaris\Amaris.Entities\obj\Debug\Amaris.Entities.csprojResolveAssemblyReference.cache

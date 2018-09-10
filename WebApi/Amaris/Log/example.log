@@ -1,0 +1,6 @@
+2018-09-10 00:22:20.7088  ERROR Error
+2018-09-10 00:23:06.2418  ERROR Error
+2018-09-10 00:25:17.1837  ERROR Error
+2018-09-10 00:28:07.0668  ERROR Error
+2018-09-10 00:28:57.2003  ERROR Error System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en Amaris.Web.Api.Controllers.ClientsController.GetByNumberPolicy(String pNumberPolicy) en c:\Users\CASA\documents\visual studio 2015\Projects\Amaris\Amaris.Web.Api\Controllers\ClientsController.cs:línea 66
